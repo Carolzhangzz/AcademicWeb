@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * GSTAR(Graduate through Academic and Research)in Computer Science
-  * University of California,Irvine(DCE), 2024 (expected)
+  * University of California,Irvine(DCE), 2023.09-2024.06 (expected)
 * B.S. in Computer and Information Science
-  * Auckland University of Technology, 2023 
+  * Auckland University of Technology, 2021.09-2023.06
 * B.Eng. in Computer Science
-  * China Jiliang University, 2021 
+  * China Jiliang University, 2019.09-2021.06
 
 Experience
 ======
