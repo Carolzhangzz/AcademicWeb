@@ -17,7 +17,7 @@ Education
 
 Experience
 ======
-For more information, have a look at my [curriculum vitae](https://drive.google.com/file/d/1EhcvCq2cuj2FzxgULbNz77Z53yhwBt_m/view).
+For more information, have a look at my [curriculum vitae](https://drive.google.com/file/d/1Uwy3ZElQ-yY5fOMSd8eP6ojFwzR22_od/view?usp=sharing).
 
 * Fall 2023p - Present: Independent Research
   * Mobile Sensing of Pedestrian Behaviors 
