@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
+* Master of Science in Computer Science and Engineering
+  * University of California, San Diego, 2024.09 (expected)
 * GSTAR(Graduate through Academic and Research)in Computer Science
-  * University of California,Irvine(DCE), 2023.09-2024.06 (expected)
+  * University of California,Irvine(DCE), 2023.09-2024.06 
 * B.S. in Computer and Information Science
   * Auckland University of Technology, 2021.09-2023.06
 * B.Eng. in Computer Science
@@ -20,7 +22,7 @@ Education
 
 Experience
 ======
-For more information, have a look at my [curriculum vitae](https://drive.google.com/file/d/1fsgRn0oVgVhmqXY_OamkXv0gydoSTz32/view?usp=sharing).
+For more information, have a look at my [curriculum vitae](https://drive.google.com/file/d/1z6C8I_7Mtlx7usWFcA6z0pd-MI9E3tVs/view?usp=sharing).
 
 * Fall 2023p - Present: Independent Research
   * Mobile Sensing of Pedestrian Behaviors 
