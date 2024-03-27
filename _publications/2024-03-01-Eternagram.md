@@ -1,6 +1,6 @@
 ---
-title: 'Eternagram: Probing Player Attitudes in Alternate Climate Scenarios Through a ChatGPT-Driven Text Adventure'
-collection: publications'
+title: “Eternagram: Probing Player Attitudes in Alternate Climate Scenarios Through a ChatGPT-Driven Text Adventure'
+collection: publications”
 permalink: /publication/2024-03-01-Eternagram.md
 excerpt: 'Notes: * indicates equal contribution. † indicates corresponding Author.'
 date: 2024-3-01
