@@ -41,10 +41,11 @@ For more information, have a look at my [curriculum vitae](https://drive.google.
 Skills
 ======
 * Programming Languages and Tools:
-  * HTML/CSS/JS,React.JS,Node.JS,VUE
+  * HTML/CSS/JS,React.JS,Node.JS 
   * Java(Spring Framework)
-  * Python (Pandas,Numpy)
+  * Python (Pandas,Numpy),Seaborn,Matplotlib,SPSS
   * Git
+  * Figma, Adobe Illustrator, Adobe Photoshop
 * Applicable Skills:
   * User research (interview, survey, user testing)
   * Prototyping
