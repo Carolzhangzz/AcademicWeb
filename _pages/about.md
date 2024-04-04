@@ -20,7 +20,7 @@ If you are interested in working in a similar area, please [**schedule**](https:
 
 I have completed several projects in HCI:
 
-(1) [Incentive design for mobile sensing:](#) Advised by [Dr. KaiXing Zhao](https://zhaokaixing.github.io/), [Northwestern Polytechnical University](https://en.nwpu.edu.cn/); ongoing research. Human-AI Interaction.
+(1) [Incentive design for mobile sensing:](#) Advised by [Dr. KaiXing Zhao](https://zhaokaixing.github.io/), [Northwestern Polytechnical University](https://en.nwpu.edu.cn/); ongoing research. Mobile Sensing of Pedestrian Behaviors for Campus Safety.
 
 (2) [A ChatGPT-powered social media interactive game for climate awareness:](#) Advised by [Dr. Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc), [City University of Hong Kong](https://www.cityu.edu.hk/); paper accepted to CHI 2024 (Co-first author).
 
