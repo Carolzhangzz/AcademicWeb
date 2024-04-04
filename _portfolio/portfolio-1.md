@@ -6,7 +6,8 @@ collection: portfolio
 ---
 
   [Figma](https://www.figma.com/file/H8QSnFBGWVWHsr0KtDcR1x/Eternagram?type=design&node-id=102%3A3&mode=design&t=EFo6wo8ueDWTAoRD-1)
-  / [GamePlay Design](https://www.figma.com/file/H8QSnFBGWVWHsr0KtDcR1x/Eternagram?type=design&node-id=0%3A1&mode=design&t=ZgD6WHp0wjt5qgR1-1) / [GitHub](https://github.com/Carolzhangzz/Eternagram)/ [Demo](https://drive.google.com/file/d/1XllwNe9dRExplsAWpIiAOuk9snLeT8Wd/view?usp=sharing)
+  / [Demo](https://drive.google.com/file/d/1XllwNe9dRExplsAWpIiAOuk9snLeT8Wd/view?usp=sharing) 
+ / [GitHub](https://github.com/Carolzhangzz/Eternagram)
   <br><br>
 
   tags: <br>
