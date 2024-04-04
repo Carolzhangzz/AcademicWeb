@@ -22,7 +22,7 @@ I have completed several projects in HCI:
 
 (1) [Incentive design for mobile sensing:](#) Advised by [Dr. KaiXing Zhao](https://zhaokaixing.github.io/), [Northwestern Polytechnical University](https://en.nwpu.edu.cn/); ongoing research. Human-AI Interaction.
 
-(2) [A ChatGPT-powered interactive game for climate awareness:](#) Advised by [Dr. Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc), [City University of Hong Kong](https://www.cityu.edu.hk/); paper accepted to CHI 2024 (Co-first author).
+(2) [A ChatGPT-powered social media interactive game for climate awareness:](#) Advised by [Dr. Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc), [City University of Hong Kong](https://www.cityu.edu.hk/); paper accepted to CHI 2024 (Co-first author).
 
 (3) [An automated video analysis framework based on Gstreamer library and Yolo v5 algorithm:](#) Advised by Dr. Haijun Tao & Dr. Lin Xiang, [China Jiliang University](https://english.cjlu.edu.cn/); undergraduate thesis project.
 
