@@ -5,7 +5,7 @@ Credit: Latisha Besariani Hendra (Back-End), [Qinshi Zhang (Front-End)](#), Suif
 collection: portfolio
 ---
 
-   ![Showcase](https://github.com/Carolzhangzz/carolzhangzz.github.io/blob/master/_portfolio/images/Etergram.png)
+   [![Etergram.png](https://i.postimg.cc/fLKVjF57/Etergram.png)](https://postimg.cc/9RDXcL6z)
    [Gameplay Link](https://eternagram.xyz/)<br>
    PS: Kindly bear with any potential delays in the sign-up process; Responses may take some time to be processed.<br>
     [Figma](https://www.figma.com/file/H8QSnFBGWVWHsr0KtDcR1x/Eternagram?type=design&node-id=102%3A3&mode=design&t=EFo6wo8ueDWTAoRD-1)
