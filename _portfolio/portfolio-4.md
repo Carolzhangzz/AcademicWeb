@@ -6,7 +6,7 @@ collection: portfolio
 ---
 
  COMP704 R&D 2022 OT, CJLU&AUT, 2022  <br>
-  ![showcase](./images/poster.png)
+  [![poster.png](https://i.postimg.cc/5Nx2SnFp/poster.png)](https://postimg.cc/23KYzdGB)
   [Course report](https://drive.google.com/file/d/1CfMyn3eZBBWowjYs9DjviqZxheoKe7fM/view?usp=sharing) 
   /[Video Demo](https://drive.google.com/file/d/1O-6ghjR7rW2qSQ2WA35l5QUtQN_dQb3u/view) <br> <br>
   
