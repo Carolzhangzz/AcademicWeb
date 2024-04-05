@@ -6,7 +6,7 @@ collection: portfolio
 ---
 
  COMP704 R&D 2022 OT, CJLU&AUT, 2022  <br>
-
+  ![showcase](./images/poster.png)
   [Course report](https://drive.google.com/file/d/1CfMyn3eZBBWowjYs9DjviqZxheoKe7fM/view?usp=sharing) 
   / [Project poster](figs/publications/poster.jpg) / [GitHub](https://github.com/Carolzhangzz/Viedo-analysis-based-on-Gstreamer) /[Demo](https://drive.google.com/file/d/1O-6ghjR7rW2qSQ2WA35l5QUtQN_dQb3u/view) <br> <br>
   
