@@ -6,10 +6,9 @@ collection: portfolio
 ---
 
    [![Etergram.png](https://i.postimg.cc/fLKVjF57/Etergram.png)](https://postimg.cc/9RDXcL6z)
-   [Gameplay Link](https://eternagram.xyz/)<br>
-   PS: Kindly bear with any potential delays in the sign-up process; Responses may take some time to be processed.<br>
-    [Figma](https://www.figma.com/file/H8QSnFBGWVWHsr0KtDcR1x/Eternagram?type=design&node-id=102%3A3&mode=design&t=EFo6wo8ueDWTAoRD-1)
-  / [Demo](https://drive.google.com/file/d/1XllwNe9dRExplsAWpIiAOuk9snLeT8Wd/view?usp=sharing) 
+   [Gameplay Link](https://eternagram.xyz/)【Note:The sign-up process may require 20 seconds to respond.】
+   <br>
+   [Demo](https://drive.google.com/file/d/1XllwNe9dRExplsAWpIiAOuk9snLeT8Wd/view?usp=sharing) 
  / [GitHub](https://github.com/Carolzhangzz/Eternagram)<br>
  
 
