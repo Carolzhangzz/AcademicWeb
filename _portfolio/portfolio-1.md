@@ -5,7 +5,7 @@ Credit: Latisha Besariani Hendra (Back-End), [Qinshi Zhang (Front-End)](#), Suif
 collection: portfolio
 ---
 
-   
+   ![Showcase](./images/Etergram.png)
    [Gameplay Link](https://eternagram.xyz/)<br>
    PS: Kindly bear with any potential delays in the sign-up process; Responses may take some time to be processed.<br>
     [Figma](https://www.figma.com/file/H8QSnFBGWVWHsr0KtDcR1x/Eternagram?type=design&node-id=102%3A3&mode=design&t=EFo6wo8ueDWTAoRD-1)
