@@ -6,7 +6,7 @@ collection: portfolio
 ---
 
  COMP728_2022_IOT, AUT, 2022 <br>
-  ![shoucase](./images/pickball.jpg)
+  [![pickball.png](https://i.postimg.cc/fL29QpXz/pickball.png)](https://postimg.cc/8Jv5hyt9)
   [Course report](https://drive.google.com/file/d/16sPR8LBI0KnhmSgpp2SdIN1dZPmh3Qj3/view?usp=sharing) 
   / [Demo](https://drive.google.com/file/d/158vuj3G6XerqFi65eooXyQ_KpDwgxDJe/view?usp=sharing) <br>  <br>
   
