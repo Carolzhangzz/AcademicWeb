@@ -14,7 +14,6 @@ My research interests lie in [Human-Computer Interaction (HCI)](#), [Human-AI In
 
 Research Interests
 ======
-I would always welcome the opportunity to work together!
 
 I have completed several projects in HCI:
 
