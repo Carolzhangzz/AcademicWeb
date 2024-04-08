@@ -16,8 +16,6 @@ Research Interests
 ======
 I would always welcome the opportunity to work together!
 
-If you are interested in working in a similar area, please [**schedule**](https://calendly.com/carolzhang705) a 30-minute conversation with me.
-
 I have completed several projects in HCI:
 
 (1) [Incentive design for mobile sensing:](#) Advised by [Dr. KaiXing Zhao](https://zhaokaixing.github.io/), [Northwestern Polytechnical University](https://en.nwpu.edu.cn/); ongoing research. Mobile Sensing of Pedestrian Behaviors for Campus Safety.
