@@ -20,9 +20,9 @@ Education
 
 Experience
 ======
-For more information, have a look at my [curriculum vitae](https://drive.google.com/file/d/1z6C8I_7Mtlx7usWFcA6z0pd-MI9E3tVs/view?usp=sharing).
+For more information, have a look at my [curriculum vitae](https://drive.google.com/file/d/1X-DBuEo0zBKGEvNGhlBI5u68V1jtEWub/view?usp=sharing).
 
-* Fall 2023p - Present: Independent Research
+<!--* Fall 2023p - Present: Independent Research
   * Mobile Sensing of Pedestrian Behaviors 
   * Supervisor: Dr.Kaixing Zhao 
 
@@ -36,7 +36,7 @@ For more information, have a look at my [curriculum vitae](https://drive.google.
 
 * June 2022: Functor Z 
   * Software Developer Intern
-  * Supervisor: Ning Liu
+  * Supervisor: Ning Liu -->
   
 Skills
 ======
@@ -72,9 +72,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
+<!--Service and leadership
 ======
 * Student Volunteer, CHI, 2024
 * Student Volunteer, Chinese CHI, 2023
-* Volunteer, Senior Community Service, 2021
+* Volunteer, Senior Community Service, 2021 -->
 
