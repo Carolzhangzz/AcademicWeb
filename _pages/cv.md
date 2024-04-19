@@ -20,7 +20,7 @@ Education
 
 Experience
 ======
-For more information, have a look at my [curriculum vitae](_pages/CV/CV_Carol Z.pdf).
+For more information, have a look at my [curriculum vitae](https://github.com/Carolzhangzz/carolzhangzz.github.io/blob/c6a3d77904e37526038780ec18391b1995309035/_pages/CV/CV_Carol%20Z.pdf).
 
 <!--* Fall 2023p - Present: Independent Research
   * Mobile Sensing of Pedestrian Behaviors 
