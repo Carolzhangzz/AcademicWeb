@@ -61,6 +61,3 @@ Teaching
 For more information
 ======
 Have a look at my [curriculum vitae](https://drive.google.com/file/d/1zqECEdviRmpb7kT6-6cK3ITp1YKmrvfo/view?usp=sharing).
-![Image Description](https://github.com/Carolzhangzz/carolzhangzz.github.io/blob/041109997f40199cf44296b3e03d70bfae807428/_pages/CV/CV_Carol%20Z-1.png)
-![Image Description](https://github.com/Carolzhangzz/carolzhangzz.github.io/blob/041109997f40199cf44296b3e03d70bfae807428/_pages/CV/CV_Carol%20Z-2.png)
-
