@@ -5,7 +5,7 @@ permalink: /publication/2024-03-01-Eternagram
 excerpt: 'Notes: * indicates equal contribution. † indicates corresponding Author.'
 date: 2024-03-01
 venue: 'CHI'
-paperurl: 'http://Carolzhangzz.github.io/files/[Arxiv]Climate-game.pdf'
+paperurl: 'https://dl.acm.org/doi/full/10.1145/3613904.3642850'
 citation: 'Suifang Zhou *, Latisha Besariani Hendra *, Qinshi Zhang *, Jussi Holopainen, RAY LC † (2024). <i>Conference Paper</i>.'
 ---
 
