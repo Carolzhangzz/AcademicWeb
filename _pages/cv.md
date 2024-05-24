@@ -60,4 +60,4 @@ Teaching
 
 For more information
 ======
-Have a look at my [curriculum vitae](https://drive.google.com/file/d/1zqECEdviRmpb7kT6-6cK3ITp1YKmrvfo/view?usp=sharing).
+Have a look at my [curriculum vitae](https://drive.google.com/file/d/1FtGFg4T_1-RYwciOqBicawyuBGYhNqsw/view?usp=sharing).
