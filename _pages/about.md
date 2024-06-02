@@ -25,6 +25,8 @@ I have completed several projects in HCI:
 
 News
 ======
+[2024.06](#) I will be starting my master's in computer science at [UC SanDiego](https://www.ucsd.edu/)!
+
 [2024.01](#) I will be serving as a Student Volunteer at CHI 2024! See you in Hawaiʻi!!
 
 [2024.01](#) My Co-First Author Paper: 'Eternagram: Probing Player Attitudes Towards Climate Change Using a ChatGPT-driven Text-based Adventure.' Has been accepted to [CHI Conference on Human Factors in Computing Systems](https://chi2024.acm.org/).
