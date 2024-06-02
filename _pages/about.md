@@ -25,13 +25,15 @@ I have completed several projects in HCI:
 
 News
 ======
-[2024.06](#) I will be starting my master's in computer science at [UC SanDiego](https://www.ucsd.edu/) this September!
+[2024.06](#) I will be starting my master's in computer science at [UC SanDiego](https://www.ucsd.edu/) this September! I am excited to delve deeper into Human-Computer Interaction (HCI) and collaborate with leading experts in the field.
 
 [2024.01](#) I will be serving as a Student Volunteer at CHI 2024! See you in Hawaiʻi!!
 
-[2024.01](#) My Co-First Author Paper: 'Eternagram: Probing Player Attitudes Towards Climate Change Using a ChatGPT-driven Text-based Adventure.' Has been accepted to [CHI Conference on Human Factors in Computing Systems](https://chi2024.acm.org/).
+[2024.01](#) My Co-First Author Paper: 'Eternagram: Probing Player Attitudes Towards Climate Change Using a ChatGPT-driven Text-based Adventure.' Has been accepted to [CHI Conference on Human Factors in Computing Systems](https://chi2024.acm.org/).I am thrilled to share our findings and discuss the implications of using interactive games for climate awareness.
 
 [2023.11](#) I will be serving as a Volunteer at [Chinese CHI2023](https://chchi2023.icachi.org/).
+
+[2023.07](#) I will be starting a research-based program at [UC Irvine](https://www.uci.edu/) this September!
 
 [2023.06](#) Our Artwork 'Forgotten Planet' Submitted to [SIGGRAPH ASIA 2023 Art Gallery](https://asia.siggraph.org/2023/submissions/art-gallery/).
 
