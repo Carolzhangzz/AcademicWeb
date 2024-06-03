@@ -11,6 +11,8 @@ redirect_from:
 
 Education
 ======
+* MS. in Computer Science
+  * University of California, San Diego, 2024.09(Expected)
 * GSTAR(Graduate through Academic and Research)in Computer Science
   * University of California,Irvine(DCE), 2023.09-2024.06 
 * B.S. in Computer and Information Science
