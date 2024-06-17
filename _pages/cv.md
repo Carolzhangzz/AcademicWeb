@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+
+For more information
+======
+Have a look at my [curriculum vitae](https://drive.google.com/file/d/1dBjhWMfJFAyOUxBkXChSg3Z-dWc3-fYP/view?usp=sharing).
+
 Education
 ======
 * MS. in Computer Science
@@ -59,7 +64,3 @@ Teaching
 * Student Volunteer, CHI, 2024
 * Student Volunteer, Chinese CHI, 2023
 * Volunteer, Senior Community Service, 2021 -->
-
-For more information
-======
-Have a look at my [curriculum vitae](https://drive.google.com/file/d/1m7nC0P3esyyK2nkRbbNvBSI_8hapj32x/view?usp=sharing).
