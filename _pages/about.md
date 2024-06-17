@@ -12,7 +12,10 @@ Experiencing a revolution driven by AI, it is incredibly exciting to be fully im
 
 I am passionate about developing AI applications and systems, as they offer opportunities to create fascinating applications across various domains. 
 From entertainment to e-commerce and productivity tools, AI enables us to create documents, design images, and even produce videos.
-We are currently witnessing a significant shift in user interfaces. In the realm of autonomous intelligent agents, we are transitioning from graphical user interfaces to agent-based user interfaces. The most natural approach for humans should be to avoid executing every task manually. AI should not only complete tasks swiftly but also exceed our expectations. This represents the ultimate version of an agent-based user interface.
+
+We are currently witnessing a significant shift in user interfaces. In the realm of autonomous intelligent agents, we are transitioning from graphical user interfaces to agent-based user interfaces. 
+
+I believe the most natural approach for humans should be to avoid executing every task manually. AI should not only complete tasks swiftly but also exceed our expectations. This represents the ultimate version of an agent-based user interface.
 
 I obtained my Bachelor’s degree in Computer Science and Technology from the School of Information Engineering at [China Jiliang University (CJLU)](https://english.cjlu.edu.cn/) and another degree in Computer and Information Science at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), advised by Dr. Lin Xiang and Dr. Haijun Tao.
 
