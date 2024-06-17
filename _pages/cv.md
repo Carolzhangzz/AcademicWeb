@@ -12,7 +12,7 @@ redirect_from:
 
 For more information
 ======
-Have a look at my [curriculum vitae](https://drive.google.com/file/d/1dBjhWMfJFAyOUxBkXChSg3Z-dWc3-fYP/view?usp=sharing).
+[curriculum vitae](https://drive.google.com/file/d/1dBjhWMfJFAyOUxBkXChSg3Z-dWc3-fYP/view?usp=sharing).
 
 Education
 ======
