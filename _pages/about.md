@@ -9,7 +9,7 @@ redirect_from:
 ## About Me
 I obtained my Bachelor’s degree in Computer Science and Technology from the School of Information Engineering at [China Jiliang University (CJLU)](https://english.cjlu.edu.cn/) and another degree in Computer and Information Science at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), advised by Dr. Lin Xiang and Dr. Haijun Tao.
 
-My research interests lie in [Human-Computer Interaction (HCI)](#), [Human-AI Interaction](#) and [AI for Social Good](#), especially the societal impact of technologies, surrounding sustainability, privacy leakage, and social justice concerns in general. I also have a great interest in [AI Agent](#).
+My research interests lie in [Human-Computer Interaction (HCI)](#), [Human-AI Interaction](#) and [Human-AI Collaboration](#), especially the societal impact of technologies, surrounding sustainability, privacy leakage, and social justice concerns in general. I also have a great interest in [AI For Social Good](#).
 
 
 Research Interests
