@@ -1,15 +1,11 @@
 ---
 permalink: /
-title: Qinshi Zhang
+title: Research Interests
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-
-
-#### Research Interests
 
 My research interests lie in [Human-Computer Interaction (HCI)](#), [Human-AI Interaction](#) and [Human-AI Collaboration](#), especially the societal impact of technologies, surrounding sustainability, privacy leakage, and social justice concerns in general. I also have a great interest in [AI For Social Good](#).
 
