@@ -15,12 +15,11 @@ My research interests lie in [Human-Computer Interaction (HCI)](#), [Human-AI In
 
 Experiencing a revolution driven by AI, it is incredibly exciting to be fully immersed in these cutting-edge technologies. 
 
-I am passionate about developing AI applications and systems, as they offer opportunities to create fascinating applications across various domains. 
-From entertainment to e-commerce and productivity tools, AI enables us to create documents, design images, and even produce videos.
+I am passionate about developing AI applications and systems to create fascinating applications across various domains.  From entertainment to e-commerce and productivity tools, AI enables us to create documents, design images, and even produce videos.
 
-We are currently witnessing a significant shift in user interfaces. In the realm of autonomous intelligent agents, we are transitioning from [GUI (Graphical User Interfaces)](#) to [(AUI) LLM Agent-based User Interfaces](#). 
+We are currently witnessing a significant shift in user interfaces. In the realm of autonomous intelligent agents, we are transitioning from [GUI (Graphical User Interfaces)](#) to [(AUI) LLM Agent-based User Interfaces](#).  I believe the most natural approach for humans should be to avoid executing every task manually. AI should not only complete tasks swiftly but also exceed our expectations. 
 
-I believe the most natural approach for humans should be to avoid executing every task manually. AI should not only complete tasks swiftly but also exceed our expectations. This represents the ultimate version of an agent-based user interface.
+This represents the ultimate version of an AI Agent-Based User Interface.
 
 About Me
 ======
