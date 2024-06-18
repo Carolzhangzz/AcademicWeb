@@ -10,6 +10,8 @@ redirect_from:
 Research Interests
 ======
 
+My research interests lie in [Human-Computer Interaction (HCI)](#), [Human-AI Interaction](#) and [Human-AI Collaboration](#), especially the societal impact of technologies, surrounding sustainability, privacy leakage, and social justice concerns in general. I also have a great interest in [AI For Social Good](#).
+
 Experiencing a revolution driven by AI, it is incredibly exciting to be fully immersed in these cutting-edge technologies. 
 
 I am passionate about developing AI applications and systems, as they offer opportunities to create fascinating applications across various domains. 
@@ -18,8 +20,6 @@ From entertainment to e-commerce and productivity tools, AI enables us to create
 We are currently witnessing a significant shift in user interfaces. In the realm of autonomous intelligent agents, we are transitioning from [GUI (Graphical User Interfaces)](#) to [(AUI) LLM Agent-based User Interfaces](#). 
 
 I believe the most natural approach for humans should be to avoid executing every task manually. AI should not only complete tasks swiftly but also exceed our expectations. This represents the ultimate version of an agent-based user interface.
-
-My research interests lie in [Human-Computer Interaction (HCI)](#), [Human-AI Interaction](#) and [Human-AI Collaboration](#), especially the societal impact of technologies, surrounding sustainability, privacy leakage, and social justice concerns in general. I also have a great interest in [AI For Social Good](#).
 
 About Me
 ======
