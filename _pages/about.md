@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My research interests lie in [Human-Computer Interaction (HCI)](#), [Human-AI Interaction](#) and [Human-AI Collaboration](#), especially the societal impact of technologies, surrounding sustainability, privacy leakage, and social justice concerns in general. I also have a great interest in [AI For Social Good](#).
+My research interests lie in [Human-Computer Interaction (HCI)](#), [Human-AI Interaction](#) and [AI For Social Good](#), especially the societal impact of technologies, surrounding sustainability, privacy leakage, and social justice concerns in general. I also have a great interest in [Machine Learning](#).
 
 Experiencing a revolution driven by AI, it is incredibly exciting to be fully immersed in these cutting-edge technologies. 
 
