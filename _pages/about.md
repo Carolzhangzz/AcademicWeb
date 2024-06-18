@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Hi, I'm Qinshi"
+title: "Qinshi(Carol)Zhang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## About Me
+
+Research Interests
+======
 
 Experiencing a revolution driven by AI, it is incredibly exciting to be fully immersed in these cutting-edge technologies. 
 
@@ -17,20 +19,12 @@ We are currently witnessing a significant shift in user interfaces. In the realm
 
 I believe the most natural approach for humans should be to avoid executing every task manually. AI should not only complete tasks swiftly but also exceed our expectations. This represents the ultimate version of an agent-based user interface.
 
-Research Interests
+My research interests lie in [Human-Computer Interaction (HCI)](#), [Human-AI Interaction](#) and [Human-AI Collaboration](#), especially the societal impact of technologies, surrounding sustainability, privacy leakage, and social justice concerns in general. I also have a great interest in [AI For Social Good](#).
+
+About Me
 ======
 
 I obtained my Bachelor’s degree in Computer Science and Technology from the School of Information Engineering at [China Jiliang University (CJLU)](https://english.cjlu.edu.cn/) and another degree in Computer and Information Science at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), advised by Dr. Lin Xiang and Dr. Haijun Tao.
-
-My research interests lie in [Human-Computer Interaction (HCI)](#), [Human-AI Interaction](#) and [Human-AI Collaboration](#), especially the societal impact of technologies, surrounding sustainability, privacy leakage, and social justice concerns in general. I also have a great interest in [AI For Social Good](#).
-
-I have completed several projects in HCI:
-
-(1) [Incentive design for mobile sensing:](#) Advised by [Dr. KaiXing Zhao](https://zhaokaixing.github.io/), [Northwestern Polytechnical University](https://en.nwpu.edu.cn/);
-
-(2) [A ChatGPT-powered social media interactive game for climate awareness:](#) Advised by [Dr. Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc), [City University of Hong Kong](https://www.cityu.edu.hk/); paper accepted to CHI 2024 (Co-first author).
-
-(3) [An automated video analysis framework based on Gstreamer library and Yolo v5 algorithm:](#) Advised by Dr. Haijun Tao & Dr. Lin Xiang, [China Jiliang University](https://english.cjlu.edu.cn/); undergraduate thesis project.
 
 News
 ======
