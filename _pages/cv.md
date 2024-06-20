@@ -12,7 +12,7 @@ redirect_from:
 
 For more information
 ======
-[Curriculum Vitae](https://drive.google.com/file/d/1y8b9F5FtNI9AKuYcUnIlxRsdlxrngmSV/view?usp=sharing)
+[See My Curriculum Vitae](https://drive.google.com/file/d/1iCes8hiATQl0lANcCq8IDKt_NeGUzh_S/view?usp=sharing)
 
 Education
 ======
@@ -35,8 +35,10 @@ Skills
   * Figma, Adobe Illustrator, Adobe Photoshop
 * Applicable Skills:
   * User research (interview, survey, user testing)
-  * Prototyping
-  * UI/UX design
+  * Web Dev, Prototyping, UI/UX design
+  * Prompt engineering, Fine-tuning skills
+  * HCI qualitative interview and analysis skills
+  * Natural Language Processing(Pre-training, Language model fine-tuning (e.g., BERT, GPT))
 * Languages:
   * Mandarin (Native)
   * English (Fluent)
