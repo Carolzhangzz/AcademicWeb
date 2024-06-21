@@ -24,14 +24,14 @@ I obtained my Bachelor’s degree in Computer Science and Technology from the Sc
 
 News
 ======
-[2024.06](#) I will be starting my internship at [UC SanDiego Design Lab](https://designlab.ucsd.edu/) this July. Would love to contribute to the [D4SD2024](https://d4sd.org/) program!
+[2024.06](#) I will be starting my internship at [UC SanDiego Design Lab](https://designlab.ucsd.edu/) this July. Would love to contribute to the [D4SD 2024](https://d4sd.org/) program!
 
 
 [2024.01](#) I will be serving as a Student Volunteer at CHI 2024! See you in Hawaiʻi!
 
 [2024.01](#) My Co-First Author Paper: 'Eternagram: Probing Player Attitudes Towards Climate Change Using a ChatGPT-driven Text-based Adventure.' Has been accepted to [CHI Conference on Human Factors in Computing Systems](https://chi2024.acm.org/).I am thrilled to share our findings and discuss the implications of using interactive games for climate awareness.
 
-[2023.11](#) I will be serving as a Volunteer at [Chinese CHI2023](https://chchi2023.icachi.org/).
+[2023.11](#) I will be serving as a Volunteer at [Chinese CHI 2023](https://chchi2023.icachi.org/).
 
 [2023.07](#) I will be starting a research-based program at [UC Irvine](https://www.uci.edu/) this September!
 
