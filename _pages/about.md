@@ -24,7 +24,7 @@ I obtained my Bachelor’s degree in Computer Science and Technology from the Sc
 
 News
 ======
-[2024.06](#) I will be starting my internship at [UC SanDiego Design Lab](https://designlab.ucsd.edu/) this July. Would love to contribute to the [DASD2024](https://d4sd.org/) program!
+[2024.06](#) I will be starting my internship at [UC SanDiego Design Lab](https://designlab.ucsd.edu/) this July. Would love to contribute to the [D4SD2024](https://d4sd.org/) program!
 
 
 [2024.01](#) I will be serving as a Student Volunteer at CHI 2024! See you in Hawaiʻi!
