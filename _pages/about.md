@@ -7,25 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-My research interests lie in [Human-Computer Interaction (HCI)](#), [Human-AI Interaction](#) and [AI For Social Good](#), especially the societal impact of technologies, surrounding sustainability, privacy leakage, and social justice concerns in general. I also have a great interest in [Machine Learning](#).
-
-Experiencing a revolution driven by AI, it is incredibly exciting to be fully immersed in these cutting-edge technologies. 
-
-I am passionate about developing AI applications and systems to create fascinating applications across various domains.  From entertainment to e-commerce and productivity tools, AI enables us to create documents, design images, and even produce videos.
-
-We are currently witnessing a significant shift in user interfaces. In the realm of autonomous intelligent agents, we are transitioning from [GUI (Graphical User Interfaces)](#) to [(AUI) LLM Agent-based User Interfaces](#).  I believe the most natural approach for humans should be to avoid executing every task manually. AI should not only complete tasks swiftly but also exceed our expectations. 
-
-This represents the ultimate version of an AI Agent-Based User Interface.
 
 About Me
 ======
 
+Hi, I am Carol Zhang, an HCI master student at UCSD, working with [Prof. Steven Dow](https://spdow.ucsd.edu/). I also have worked with [Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc) at HK CityU on AI for Social Good [CHI 2024](https://dl.acm.org/doi/abs/10.1145/3613904.3642850).
+
 I obtained my Bachelor’s degree in Computer Science and Technology from the School of Information Engineering at [China Jiliang University (CJLU)](https://english.cjlu.edu.cn/) and another degree in Computer and Information Science at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), advised by Dr. Lin Xiang and Dr. Haijun Tao.
 
+
+Research Interests
+======
+
+My research interests lie in [Human-AI Interaction for Social Impact](#) and [AI For Social Good](#), especially the societal impact of technologies, surrounding sustainability, privacy leakage, and social justice concerns in general. I also have a great interest in [Machine Learning](#).
+
+This represents the ultimate version of an AI Agent-Based User Interface.
 News
 ======
 [2024.06](#) I will be starting my internship at [UC SanDiego Design Lab](https://designlab.ucsd.edu/) this July. Would love to contribute to the [D4SD 2024](https://d4sd.org/) program!
-
 
 [2024.01](#) I will be serving as a Student Volunteer at CHI 2024! See you in Hawaiʻi!
 
