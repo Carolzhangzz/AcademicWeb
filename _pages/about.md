@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ======
 
-Hi, I am Carol Zhang, an HCI master student at UCSD, working with [Prof. Steven Dow](https://spdow.ucsd.edu/). I also have worked with [Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc) at HK CityU on AI for Social Good [CHI 2024](https://dl.acm.org/doi/abs/10.1145/3613904.3642850).
+Hi, I am Carol Zhang, an HCI master student at UCSD, working with [Prof. Steven Dow](https://spdow.ucsd.edu/). I also have worked with [Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc) at HK CityU on AI for Social Good at [CHI 2024](https://dl.acm.org/doi/abs/10.1145/3613904.3642850).
 
 I obtained my Bachelor’s degree in Computer Science and Technology from the School of Information Engineering at [China Jiliang University (CJLU)](https://english.cjlu.edu.cn/) and another degree in Computer and Information Science at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), advised by Dr. Lin Xiang and Dr. Haijun Tao.
 
@@ -19,9 +19,8 @@ I obtained my Bachelor’s degree in Computer Science and Technology from the Sc
 Research Interests
 ======
 
-My research interests lie in [Human-AI Interaction for Social Impact](#) and [AI For Social Good](#), especially the societal impact of technologies, surrounding sustainability, privacy leakage, and social justice concerns in general. I also have a great interest in [Machine Learning](#).
+My research interests lie in [Human-AI Interaction for Social Impact](#) and [AI For Social Good](#), especially the societal impact of technologies, surrounding sustainability, privacy leakage, and social justice concerns in general. 
 
-This represents the ultimate version of an AI Agent-Based User Interface.
 News
 ======
 [2024.06](#) I will be starting my internship at [UC SanDiego Design Lab](https://designlab.ucsd.edu/) this July. Would love to contribute to the [D4SD 2024](https://d4sd.org/) program!
