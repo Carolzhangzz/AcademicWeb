@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: Research Interests
+title: About Me
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-About Me
-======
 
 Hi, I am Carol Zhang, an HCI master student at UCSD, working with [Prof. Steven Dow](https://spdow.ucsd.edu/). I also have worked with [Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc) at HK CityU on AI for Social Good at [CHI 2024](https://dl.acm.org/doi/abs/10.1145/3613904.3642850).
 
