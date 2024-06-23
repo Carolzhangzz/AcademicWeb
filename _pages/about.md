@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hi, I am Carol Zhang, an HCI master student at UCSD, working with [Prof. Steven Dow](https://spdow.ucsd.edu/). I also have worked with [Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc) at HK CityU on AI for Social Good at [CHI 2024](https://dl.acm.org/doi/abs/10.1145/3613904.3642850).
+Hi, I am Carol Zhang, an HCI master student at UCSD, working with [Prof. Steven Dow](https://spdow.ucsd.edu/). I also have worked with [Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc) at HK CityU on AI for Social Good, resulted a co-first authored paper published at [CHI 2024](https://dl.acm.org/doi/abs/10.1145/3613904.3642850).
 
 I obtained my Bachelor’s degree in Computer Science and Technology from the School of Information Engineering at [China Jiliang University (CJLU)](https://english.cjlu.edu.cn/) and another degree in Computer and Information Science at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), advised by Dr. Lin Xiang and Dr. Haijun Tao.
 
