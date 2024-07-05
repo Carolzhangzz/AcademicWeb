@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Qinshi 'Carol' Zhang"
 description              : &description "personal description"
 url                      : https://carolzhangzz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/AcademicWeb/" # the subpath of your site, e.g. "/blog"
 repository               : "carolzhangzz.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
